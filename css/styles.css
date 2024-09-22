@@ -1,5 +1,15 @@
-.logo-icon {
+.logo-img {
     height: 50px;
     width: 50px;
-    border: 1px;
+    border: 5px double black;
+    border-radius: 50%;
+}
+.nav-bar {
+    width: 100%;
+    border-bottom: 2px solid black;
+}
+span {
+    font-size: 25px;
+    border: 2px solid black;
+    align-self: flex-end;
 }
